@@ -1,5 +1,6 @@
 [package]
-name = "rust-netlify-function"
+#package name needs to match the required in the js function
+name = "hello"
 version = "0.1.0"
 authors = ["Yana Kadiyska <ykadiysk@akamai.com>"]
 edition = "2018"
